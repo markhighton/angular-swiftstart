@@ -2,9 +2,9 @@
 
 ## A swift setup of Angular CLI with routing, route guards, application settings, environment classes, authentication, bootstrap 4 and basic login/logout components & services.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
+## Angular CLI docs
 
-# Angular CLI docs
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
 ## Development server
 
